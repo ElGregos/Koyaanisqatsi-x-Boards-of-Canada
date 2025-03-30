@@ -4,7 +4,7 @@
 
 While Boards of Canada allow their music to play on YouTube, showing the whole *Koyaanisqatsi* movie there is impossible for obvious copyright reasons. Hence this GitHub repository allowing you to build your own video file, provided you add the Koyaanisqatsi and Boards of Canada files. 
 
-You can also simply enjoy the mix on [YouTube](https://youtu.be/UVAg0iMpoEo) which includes a video made to check everything stays in sync if you choose to play the mix along a muted Koyaanisqatsi video, give a glimpse of this movie and music relationship and encourage people to use this repository to appreciate *Koyaanisqatsi × Boards of Canada* as intended, but also offer both an experience of its own and a 1h26 undecipherable trailer of this movie that everyone should watch.
+You can also simply enjoy the mix on [YouTube](https://youtu.be/ncp7bPfbITw) which includes a video made to check everything stays in sync if you choose to play the mix along a muted Koyaanisqatsi video, give a glimpse of this movie and music relationship and encourage people to use this repository to appreciate *Koyaanisqatsi × Boards of Canada* as intended, but also offer both an experience of its own and a 1h26 undecipherable trailer of this movie that everyone should watch.
 
 # How to build your video
 
@@ -89,7 +89,7 @@ So click "Browse for file...", select missing file, and repeat until load is com
 
 ## Check audio & video synchronization
 
-Those vertical colored bars are markers. #0 (red) marks the start of video on [YouTube](https://youtu.be/UVAg0iMpoEo), allowing viewers to approximately know when to launch the mix there, while their Koyaanisqatsi movie plays locally. Yellow markers will help checking synchronization. Make sure video monitor is opened (ctrl+shift+V) and click on each marker head listed below: cursor goes there and if you're lucky, the monitor shows the **exact** corresponding image. Moreover, the frame just before those shown should be completely different.
+Those vertical colored bars are markers. #0 (red) marks the start of video on [YouTube](https://youtu.be/ncp7bPfbITw), allowing viewers to approximately know when to launch the mix there, while their Koyaanisqatsi movie plays locally. Yellow markers will help checking synchronization. Make sure video monitor is opened (ctrl+shift+V) and click on each marker head listed below: cursor goes there and if you're lucky, the monitor shows the **exact** corresponding image. Moreover, the frame just before those shown should be completely different.
 
 | Marker | Name |  Frame |
 | --- | --- | --- |
@@ -156,7 +156,7 @@ If you want to set the mix to track 1, open the dropdown menu, select ".... Add 
 Now click "OK" to close that window. On the left, in "Output Format" dropdown menu, choose your format; it should be the same than the given video. Then open File/Save (ctrl+S), select location & name, save, progress bar shows and after a few seconds your new video is built. Well done! Now you can watch *Koyaanisqatsi × Boards of Canada*.
 
 # Links
-- *Koyaanisqatsi × Boards of Canada* on [YouTube](https://youtu.be/UVAg0iMpoEo).
+- *Koyaanisqatsi × Boards of Canada* on [YouTube](https://youtu.be/ncp7bPfbITw).
 - *Koyaanisqatsi* on [Wikipedia](https://en.wikipedia.org/wiki/Koyaanisqatsi) and [IMDb](https://www.imdb.com/title/tt0085809/).
 - Boards of Canada on [Wikipedia](https://en.wikipedia.org/wiki/Boards_of_Canada), [Spotify](https://open.spotify.com/intl-fr/artist/2VAvhf61GgLYmC6C8anyX1), [Deezer](https://www.deezer.com/fr/artist/1098), [Bandcamp](https://boardsofcanada.bandcamp.com/), [Discogs](https://www.discogs.com/artist/307-Boards-Of-Canada), [AllMusic](https://www.allmusic.com/artist/boards-of-canada-mn0000758999), [Warp](https://warp.net/artists/boards-of-canada), [SoundCloud](https://soundcloud.com/boardsofcanada) and fan wiki [bocpages](https://bocpages.org/wiki/About).
 
